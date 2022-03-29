@@ -1,5 +1,4 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=code-sponge&fontSize=70&animation=twinkling) -->
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Code-Sponge&fontSize=70&fontAlignY=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Code-Sponge&fontSize=70&fontAlignY=40&animation=twinkling)
 
 
 👋 Hi, I'm @code-sponge.<br>
